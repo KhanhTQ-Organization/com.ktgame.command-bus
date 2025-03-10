@@ -69,7 +69,8 @@ namespace com.ktgame.command_bus
             }
         }
 
-        public async UniTask<TResponse> Execute<TCommand, TResponse>(TCommand command, CancellationToken cancellationToken = default) where TCommand : ICommand<TResponse>
+        public async UniTask<TResponse> Execute<TCommand, TResponse>(TCommand command,
+            CancellationToken cancellationToken = default) where TCommand : ICommand<TResponse>
         {
             var type = typeof(TCommand);
             if (_handlers.ContainsKey(type))
