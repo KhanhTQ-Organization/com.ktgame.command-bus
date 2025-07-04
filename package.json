@@ -13,7 +13,10 @@
     "url": ""
   },
   "dependencies": {
-    "com.ktgame.unitask": "1.0.0"
+    "com.ktgame.unitask": "1.0.3"
   },
-  "unity": "2019.4"
+  "unity": "2019.4",
+  "publishConfig": {
+    "registry": "http://3.25.208.95:4873"
+  }
 }
