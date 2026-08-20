@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/KhanhTQ-Organization/com.ktgame.command-bus/compare/v1.0.3...v1.0.4) (2026-08-20)
+
+
+### Bug Fixes
+
+* update ([5fd113e](https://github.com/KhanhTQ-Organization/com.ktgame.command-bus/commit/5fd113e5fb60298b79cc7e9a4afd62f4dc0a5910))
+
 ## [1.0.3](https://github.com/KhanhTQ-Organization/com.ktgame.command-bus/compare/v1.0.2...v1.0.3) (2026-05-06)
 
 
