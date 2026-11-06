@@ -1,6 +1,6 @@
 {
   "name": "com.ktgame.command-bus",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "displayName": "com.ktgame.command-bus",
   "description": "Command Bus for Unity on top of UniTask: one handler per command, middleware pipeline.",
   "author": {
