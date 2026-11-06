@@ -2,7 +2,7 @@
   "name": "com.ktgame.command-bus",
   "version": "1.0.4",
   "displayName": "com.ktgame.command-bus",
-  "description": "Command Bus",
+  "description": "Command Bus for Unity on top of UniTask: one handler per command, middleware pipeline.",
   "author": {
     "name": "ktgame",
     "email": "khanhquang0912qh@gmail.com",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/KhanhTQ-Organization/com.ktgame.command-bus.git"
   },
   "dependencies": {
     "com.ktgame.unitask": "1.0.3"
